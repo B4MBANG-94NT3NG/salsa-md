@@ -840,8 +840,6 @@ global.menunya = (pushname, prefix, hituet) =>{
 │○ All Creator Bot
 │
 ╰❒
-
-📝 SUBSCRIBE YT CREATOR : https://youtube.com/@jerofc
 `
 }
 
